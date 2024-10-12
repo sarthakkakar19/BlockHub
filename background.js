@@ -1,4 +1,4 @@
-let adBlockerEnabled = false;
+let adBlockerEnabled = true;
 
 function updateAdBlocker() {
     if (adBlockerEnabled) {
